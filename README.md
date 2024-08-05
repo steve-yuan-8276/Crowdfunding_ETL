@@ -3,9 +3,30 @@
 For the ETL mini project, you will work with an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After  transform the data, create four CSV files and use the CSV file data to create an ERD and a table schema. Finally,  upload the CSV file data into a Postgres database.
 
 ## Directory Structure
-
-
-
+```
+    Crowdfunding_ETL(mini project)/
+    ├── Resources/
+    │   ├── contacts.xlsx
+    │   └── crowdfunding.xlsx
+    ├── Outputs/
+    │   ├── category.csv
+    │   ├── subcategory.csv
+    │   ├── campaign.csv
+    │   ├── contact_V1.csv
+    │   └── contacts_v2.csv
+    ├── ERD/
+    │   ├── schema.md
+    │   ├── QuickDBD-Map.png
+    │   ├── crowdfunding_db_schema.sql
+    │   └── SELECT_Query.sql
+    ├── SQL_Query_ScreenShots/
+    │   ├── category_query_screenshot.png
+    │   ├── subcategory_query_screenshot.png
+    │   ├── contacts_query_screenshot.png
+    │   └── campaign_query_screenshot.png
+    ├── ETL_Mini_Project_FYuan.ipynb
+    └── README.md
+```
 ## Sulution:
 
 ### Step 1: Finished ETL, Create 4 DataFrame, and save them into csv files.
