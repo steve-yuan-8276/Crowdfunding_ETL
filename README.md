@@ -12,16 +12,19 @@ For the ETL mini project, you will work with an ETL pipeline using Python, Panda
 
 Sample:
 * Category and Subcategory DataFrames.
+  
 ![category DataFrame](https://static.bc-edx.com/data/dl-1-2/m13/lms/img/category_DataFrame.png)
 
 * Campaign DataFrame.
+  
 ![subcategory DataFrame](https://static.bc-edx.com/data/dl-1-2/m13/lms/img/subcategory_DataFrame.png)
 
 *  Crowdfunding Database.
-
+  
 ![final contact DataFrame](https://static.bc-edx.com/data/dl-1-2/m13/lms/img/contact_DataFrame_final.png)
 
 * Contacts DataFrame.
+
 ![campaign DataFrame](https://static.bc-edx.com/data/dl-1-2/m13/lms/img/campaign_DataFrame.png)
 
 
