@@ -74,4 +74,4 @@ Sample:
 7. Import each CSV file into its corresponding SQL table.
 
 
-8. Verify that each table has the correct data by running a `SELECT` statement for each.
+8. Verify that each table has the correct data by running a `SELECT` statement for each, select results has attached into 'SQL_Query_results', please review.
